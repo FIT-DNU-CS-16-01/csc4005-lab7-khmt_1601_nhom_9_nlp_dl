@@ -12,8 +12,9 @@ checkpoints/*
 !checkpoints/.gitkeep
 models/*
 !models/.gitkeep
-outputs/*
-!outputs/.gitkeep
+!models/quantization_report.json
+# outputs/*
+# !outputs/.gitkeep
 
 *.zip
 *.tar
